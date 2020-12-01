@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>epesod</title>
+    <link href="https://abimaelo.github.io/epesod/feed.xml" rel="self" />
+    <link href="https://abimaelo.github.io/epesod" />
+    <updated>2020-10-26T17:41:14-04:00</updated>
+    <author>
+        <name>Abimael Ortiz</name>
+    </author>
+    <id>https://abimaelo.github.io/epesod</id>
+
+    <entry>
+        <title>Objetos impresos en 3d hechos por epesod</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/objetos-impresos-en-3d-hechos-por-epesod.html"/>
+        <id>https://abimaelo.github.io/epesod/objetos-impresos-en-3d-hechos-por-epesod.html</id>
+            <category term="Diseño"/>
+            <category term="Creación"/>
+
+        <updated>2020-10-26T17:41:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/25/DSC_0633_2mb.jpg" alt="" />
+                     Hace un tiempo estaba buscando una manera de reproducir objetos de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/25/DSC_0633_2mb.jpg" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p>Hace un tiempo estaba buscando una manera de reproducir objetos de una manera sencilla sin tener que recurrir a métodos demasiado complejos o costosos y así fue como despertó mi interés en la impresión 3d. En un principio pensé que era muy costoso un "3d printer" pero luego vi que hay impresoras por menos de $300, así que decidí hacer la inversión.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Son muchas las ideas para aprovechar el potencial de esta máquina. Por el momento comencé con aretes en varias formas y colores. El material es un filamento PLA, un termo-plástico de mucha durabilidad. Se le colocan argollas y gancho en acero inoxidable hipoalergénico.&nbsp;</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":532,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><figure class="wp-image-532"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/25/DSC_0642_low.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://abimaelo.github.io/epesod/media/posts/25/responsive/DSC_0642_low-xs.jpg 300w ,https://abimaelo.github.io/epesod/media/posts/25/responsive/DSC_0642_low-sm.jpg 480w ,https://abimaelo.github.io/epesod/media/posts/25/responsive/DSC_0642_low-md.jpg 768w ,https://abimaelo.github.io/epesod/media/posts/25/responsive/DSC_0642_low-lg.jpg 1024w"  alt="" /></figure></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Para estas prendas se diseñó un empaque sencillo y práctico con el logo de la marca. Además incluye una etiqueta en la parte exterior que se puede retirar y usar como "sticker".</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Los primeros diseños los bajé de internet para aprender el uso de los parámetros y experimentar con el sistema pero luego hice mis propios diseños.&nbsp;</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":531,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><figure class="wp-image-531"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/25/IMG_20200914_214347435-01_low.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://abimaelo.github.io/epesod/media/posts/25/responsive/IMG_20200914_214347435-01_low-xs.jpeg 300w ,https://abimaelo.github.io/epesod/media/posts/25/responsive/IMG_20200914_214347435-01_low-sm.jpeg 480w ,https://abimaelo.github.io/epesod/media/posts/25/responsive/IMG_20200914_214347435-01_low-md.jpeg 768w ,https://abimaelo.github.io/epesod/media/posts/25/responsive/IMG_20200914_214347435-01_low-lg.jpeg 1024w"  alt="" /></figure></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Los diseños los hago en un programa vectorial y luego los exporto en formato SVG a <a href="https://www.tinkercad.com" data-type="URL" data-id="https://www.tinkercad.com">Tinkercad</a> donde les doy las dimensiones y lo exporto en STL. El archivo STL lo importo a <a rel="noreferrer noopener" href="https://ultimaker.com/software/ultimaker-cura" data-type="URL" data-id="https://ultimaker.com/software/ultimaker-cura" target="_blank">Cura</a> y ahí le doy las especificaciones para la impresión y lo salvo en formato OBJ en una tarjeta SD.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Básicamente ese es el proceso para realizar cada par de aretes. Dependiendo el tamaño y los detalles es el tiempo que tarda la impresión en completarse.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Para saber donde se está vendiendo este y otros productos tienen que estar pendiente a nuestras redes sociales, ya que no tenemos un método específico de ventas por el momento.</p>
+<p><!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>La impresión 3d como medio de expresión creativa - Parte 2</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/la-impresion-3d-como-medio-de-expresion-creativa-parte-2.html"/>
+        <id>https://abimaelo.github.io/epesod/la-impresion-3d-como-medio-de-expresion-creativa-parte-2.html</id>
+            <category term="Diseño"/>
+            <category term="Creación"/>
+            <category term="Arte"/>
+
+        <updated>2020-10-26T17:41:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/24/image-asset.jpeg" alt="" />
+                     En la primera parte se describió de manera sencilla lo que&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/24/image-asset.jpeg" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p>En<a href="http://epesod.com/blog/2020/10/18/la-impresion-3d-como-medio-de-expresion-creativa-parte-1/"> la primera parte</a> se describió de manera sencilla lo que es la impresión 3d y su actual accesibilidad. En esta segunda parte hablamos sobre su implementación en el arte o las industrias creativas.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Según he podido encontrar en linea, desde la década del 2010 ya se pueden apreciar manifestaciones artísticas en este sistema. Artistas diseñadores como Mathias Bengtsson y Peter Marigold implementaron la impresión 3d para realizar sus piezas. En el año 2011 durante el Festival de Diseño de Londres, en el Museo de Victoria y Alberto, hubo una instalación dirigido a la impresión 3D titulada <a href="https://i.materialise.com/blog/en/3d-printing-in-the-worlds-greatest-museum-of-art-and-design/" target="_blank" rel="noreferrer noopener">Revolution 2.0: How the Material World will Newly Materialise.</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>En la moda diseñadores como Karl Lagerfeld, Iris van Herpen, Melinda Looi y Danit Peleg han explorado la impresión 3d en la ropa y empresas como Adidas han desarrollado zapatillas impresas en 3D. Una manifestación de la moda en 3d la puedes ver en&nbsp;<a href="https://www.facebook.com/3Dfashionweek/%20" target="_blank" rel="noreferrer noopener">3d Fashionweek</a> de Perú.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Otros diseñadores como <a rel="noreferrer noopener" href="https://n-e-r-v-o-u-s.com" target="_blank">Nervous System</a> (a generative design studio that works at the intersection of science, art, and technology) un estudio de diseño generativo que trabaja en la intersección de la ciencia, el arte y la tecnología, según se describen, utilizan la impresión 3d para la confección de piezas únicas de Joyería y accesorios.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Dato curioso, el traje de Queen Ramonda de la película Black Panther está impreso en 3d. Pueden ver mas en <a href="https://i.materialise.com/blog/en/how-3d-printing-won-an-oscar/" target="_blank" rel="noreferrer noopener">este</a> artículo</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":521,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><figure class="wp-image-521"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/24/black-panther-1024x683.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://abimaelo.github.io/epesod/media/posts/24/responsive/black-panther-1024x683-xs.jpg 300w ,https://abimaelo.github.io/epesod/media/posts/24/responsive/black-panther-1024x683-sm.jpg 480w ,https://abimaelo.github.io/epesod/media/posts/24/responsive/black-panther-1024x683-md.jpg 768w ,https://abimaelo.github.io/epesod/media/posts/24/responsive/black-panther-1024x683-lg.jpg 1024w"  alt="" /></figure></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Artistas como <a href="https://ericvanstraaten.com/">Eric van Straaten</a> crean esculturas figurativas de impresión 3D compuesta que dan la apariencia de porcelana. <a rel="noreferrer noopener" href="http://www.pacoraphael.com/collection/" target="_blank">Paco Raphael</a> cruza la línea entre el arte y el diseño, uniendo el arte con los productos industriales. Hay que ver las hermosas instalaciones del artista coreano <a rel="noreferrer noopener" href="https://seyoonpark.com/" data-type="URL" data-id="https://seyoonpark.com/" target="_blank">Se Yoon Park</a>. Otro artista figurativo es Koenraad Van Daele, <a rel="noreferrer noopener" href="https://i.materialise.com/blog/en/art-3d-printing-van-daele/" target="_blank" data-type="URL" data-id="https://i.materialise.com/blog/en/art-3d-printing-van-daele/">aquí</a> está una interesante entrevista al artista. Para finalizar en <a rel="noreferrer noopener" href="https://www.huffpost.com/entry/3d-printing-art_n_5534459" target="_blank" data-type="URL" data-id="https://www.huffpost.com/entry/3d-printing-art_n_5534459">este</a> artículo se muestra como varios artistas usan distintas técnicas y materiales para hacer sus obras impresas en 3d.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":523,"width":318,"height":475,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large is-resized"><figure class="wp-image-523"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/24/still-life-polymer-blue-compressor-e1519660301271-683x1024-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://abimaelo.github.io/epesod/media/posts/24/responsive/still-life-polymer-blue-compressor-e1519660301271-683x1024-1-xs.jpg 300w ,https://abimaelo.github.io/epesod/media/posts/24/responsive/still-life-polymer-blue-compressor-e1519660301271-683x1024-1-sm.jpg 480w ,https://abimaelo.github.io/epesod/media/posts/24/responsive/still-life-polymer-blue-compressor-e1519660301271-683x1024-1-md.jpg 768w ,https://abimaelo.github.io/epesod/media/posts/24/responsive/still-life-polymer-blue-compressor-e1519660301271-683x1024-1-lg.jpg 1024w"  alt=""  width="318" height="475"/></figure></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Como pueden ver la impresión 3d está llena de posibilidades&nbsp; en el campo del arte y las industrias creativas.&nbsp; Es una herramienta accesible para producir objetos que de otra manera requerirían muchas otras herramientas, materiales y hasta servicios contratados. Si te sientes atraído por una impresora 3d aventúrate a hacer la inversión pues creo que vale la pena.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Si tienes información relacionada que quieras compartir déjala en los comentarios.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>A continuación les comparto publicaciones interesantes relacionadas.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://interestingengineering.com/these-8-artists-are-3d-printing-masterpieces">https://interestingengineering.com/these-8-artists-are-3d-printing-masterpieces</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://www.marcomahler.com/3d-printing-artist-sculpture-art/">https://www.marcomahler.com/3d-printing-artist-sculpture-art/</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://i.materialise.com/blog/en/our-8-favorite-3d-printed-sculptures/">https://i.materialise.com/blog/en/our-8-favorite-3d-printed-sculptures/</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://i.materialise.com/blog/en/3d-printed-trees-art-installation/">https://i.materialise.com/blog/en/3d-printed-trees-art-installation/</a></p>
+<p><!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>La impresión 3d como medio de expresión creativa - Parte 1</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/la-impresion-3d-como-medio-de-expresion-creativa-parte-1.html"/>
+        <id>https://abimaelo.github.io/epesod/la-impresion-3d-como-medio-de-expresion-creativa-parte-1.html</id>
+            <category term="Tecnología"/>
+            <category term="Recursos"/>
+            <category term="Diseño"/>
+            <category term="Creación"/>
+
+        <updated>2020-10-26T17:41:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/23/printer-2416269_1280.jpg" alt="" />
+                     En este artículo quiero explorar&nbsp;el tema de la impresión 3d como&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/23/printer-2416269_1280.jpg" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p>En este artículo quiero explorar&nbsp;el tema de la impresión 3d como medio de expresión creativa y sus aplicaciones en el mundo del arte.&nbsp;</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Me di a la tarea de buscar un poco en internet para saber que se ha hecho hasta el momento en el mundo del arte con esta herramienta relativamente nueva. En esta primera parte vamos a averiguar que es la impresión 3d y cual es su accesibilidad al mercado de equipos de escritorio.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>La impresora 3d</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>La conceptualización de la impresión 3d comenzó a finales de los 70 y a principios de los 80 se desarrolló el primer sistema de impresión 3d, pero no es hasta los 2000 que se hace accesible al público general.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hay varios métodos de impresión 3d pero vamos a enfocarnos en el FDM ya que es el adquirido para el taller de epesod.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>El Modelado por Deposición Fundida (MDF o FDM en sus siglas inglesas)&nbsp;se ha convertido en la técnica aditiva más utilizada. FDM es la técnica mediante la cual un filamento abastece material hacia un extrusor. El material es fundido y depositado capa a capa en la cama de impresión. Esta técnica tiene grandes ventajas, como el uso de materiales de bajo costo, inodoros, seguros y no tóxicos, la gran variedad, y la facilidad de manejo y mantenimiento.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Determinadas impresoras usan filamento de termo-plástico como el PLA o ABS, estas funden el plástico construyendo con él capas muy finas sobrepuestas para crear el objeto. Estos materiales admiten el pulido posterior de la pieza. Las impresoras tipo FDM cuentan con un enorme potencial y son las que mayor presencia tienen en el mercado de Impresora 3d de escritorio. Estos equipos se pueden adquirir desde los $300 en Ebay o Amazon siendo la marca <a href="https://www.creality.com/" data-type="URL" data-id="https://www.creality.com/" target="_blank" rel="noreferrer noopener">Creality</a> una de las mas populares de bajo costo.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Programa de modelado y "slicing".</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Para desarrollar el diseño de un modelo 3d y su eventual impresión necesitamos programas específicos para esta función. Hay gran variedad de ellos, unos de pago y otros gratis. Voy a mencionar los más populares y de acceso gratuito.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Para la creación del diseño 3d podemos usar un programa online que se llama <a rel="noreferrer noopener" href="https://www.tinkercad.com/" data-type="URL" data-id="https://www.tinkercad.com/" target="_blank">Tinkercad</a> donde podemos crear objetos básicos de manera sencilla. Para crear objetos mas elaborados podemos usar un programa como <a rel="noreferrer noopener" href="https://www.blender.org/" data-type="URL" data-id="https://www.blender.org/" target="_blank">Blender</a> que es muy potente, pero con una curva amplia de aprendizaje. Sin embargo, hay gran variedad de tutoriales en youtube que ayudan a aprender a usarlo. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Si deaseas obtener modelos gratuitos para imprimir puedes visitar <a rel="noreferrer noopener" href="https://www.thingiverse.com/" data-type="URL" data-id="https://www.thingiverse.com/" target="_blank">Thingiverse</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Luego de creado el modelo tenemos que usar un programa de "slicing" en donde determinamos los parámetros que le indicará a la impresora como realizará la impresión. Para esto podemos utilizar el programa gratuito <a rel="noreferrer noopener" href="https://ultimaker.com/software/ultimaker-cura" data-type="URL" data-id="https://ultimaker.com/software/ultimaker-cura" target="_blank">Ultimaker Cura</a> o <a rel="noreferrer noopener" href="https://www.prusa3d.com/prusaslicer/" data-type="URL" data-id="https://www.prusa3d.com/prusaslicer/" target="_blank">Prusa Slicer</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hay mucha información disponible sobre este tema en internet, pero quise reseñarlo para el que no está al tanto pueda tener un mejor marco de referencia.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>La impresión 3d se usa en muchas industrias, como la medicina, ciencia y la manufactura. Para la arquitectura ha demostrado ser una utilidad práctica y costo efectiva. &nbsp;¿Qué tal ha sido su implementación en el arte o las industrias creativas? Eso lo veremos en la segunda parte.</p>
+<p><!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Convocatoria para publicar en epesod</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/convocatoria-para-publicar-en-epesod.html"/>
+        <id>https://abimaelo.github.io/epesod/convocatoria-para-publicar-en-epesod.html</id>
+            <category term="Uncategorized"/>
+            <category term="Recursos"/>
+
+        <updated>2020-10-26T17:41:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/21/publica.blog-post-feature.jpg" alt="" />
+                     ¿Tienes un emprendimiento en las artes y lo quieres dar a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/21/publica.blog-post-feature.jpg" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p>¿Tienes un emprendimiento en las artes y lo quieres dar a conocer? Aquí tenemos una oportunidad para ti.<br></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4><strong>Se convoca a todos los creativos a promocionar su trabajo a través de una publicación en nuestra revista.&nbsp;</strong><br></h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Son bienvenidos a publicar artistas visuales, fotógrafos, músicos y otros medios que estén emprendiendo un proyecto personal u comercial.<br></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>En el artículo el artista nos dará una breve autobiografía, nos hablará de su proceso creativo y nos explicará de que trata su proyecto.<br></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Las reglas son las siguientes:<br></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>El artista creador deberá reseñar su trabajo en un escrito de al menos 300 palabras. Debe cuidar la ortografía.</li>
+<li> Todo artículo deberá estar acompañado de una imagen destacada para el encabezado. La imagen debe ser en formato horizontal tamaño 1024 x 768 pixeles. </li>
+<li> En caso de Arte Visual acompañará el artículo con un mínimo de 2 y un&nbsp;máximo de 5 imágenes.&nbsp; </li>
+<li> En caso de ser vídeo o audio deberá estar acompañado de un enlace (YouTube, Soundcloud, etc.) donde se pueda apreciar su trabajo.</li>
+<li> Deberá incluir enlace a su página web y redes sociales junto con un email de contacto. <br> </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Esta información deberá enviarla al correo electrónico <a href="mailto:marketing@epesod.com" target="_blank" rel="noreferrer noopener">marketing@epesod.com</a><br></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Todas las solicitudes serán consideradas y de cumplir los criterios serán publicadas.<br><br></p>
+<p><!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Como ser un artista según William de Kooning</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/como-ser-un-artista-segun-william-de-kooning.html"/>
+        <id>https://abimaelo.github.io/epesod/como-ser-un-artista-segun-william-de-kooning.html</id>
+            <category term="Recursos"/>
+
+        <updated>2020-10-26T17:41:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/20/dekooning.jpg" alt="" />
+                     Un artículo publicado por la web artsy.net destaca 4 lecciones para&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/20/dekooning.jpg" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p> Un artículo publicado por la web artsy.net destaca 4 lecciones para ser un artista extraídas de las palabras del pintor William de Kooning en sus numerosas conferencias y entrevistas.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Willem de Kooning (1904-1997) fue un pintor Holandés nacionalizado estadounidense, exponente del expresionismo abstracto y dentro de esta tendencia, la pintura gestual.<br><a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/Willem_de_Kooning" target="_blank">https://es.wikipedia.org/wiki/Willem_de_Kooning</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3> Las lecciones son las siguientes:<br></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Lección # 1: No tengas miedo de ser influenciado por el trabajo de otros artistas</li>
+<li>Lección # 2: Busca destellos de inspiración en el mundo que te rodea</li>
+<li>Lección # 3: Preste atención a sus deseos, no a los críticos</li>
+<li>Lección # 4: Abrazar la imperfección, incluso el fracaso</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>
+<p>Sabios consejos de un artista que dejó huella en el mundo del arte. Espero que puedas aplicarlos y sean de ayuda en tu carrera como artista.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Pueden ver el artículo completo aquí <a href="https://www.artsy.net/article/artsy-editorial-willem-de-kooning-artist" target="_blank" rel="noreferrer noopener">https://www.artsy.net/article/artsy-editorial-willem-de-kooning-artist</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Artsy es una plataforma para coleccionar y descubrir arte. Cuenta con un blog con publicaciones frecuentes e interesantes sobre el mundo del arte.<br></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><br></p>
+<p><!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Plataformas web para recibir patrocinio de tus seguidores</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/plataformas-web-para-recibir-patrocinio-de-tus-seguidores.html"/>
+        <id>https://abimaelo.github.io/epesod/plataformas-web-para-recibir-patrocinio-de-tus-seguidores.html</id>
+            <category term="Recursos"/>
+            <category term="Inspiración"/>
+
+        <updated>2020-10-26T17:41:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/19/8954811073_55f266f78b_b.jpg" alt="" />
+                     Desarrollar obra artística o contenido multimedios requiere tiempo, trabajo y dinero.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/19/8954811073_55f266f78b_b.jpg" alt="" />
+                <p><!-- wp:heading {"level":4} --></p>
+<h4>Estas herramientas facilitan a tus seguidores la tarea de enviar su donativo a través de sus plataformas web.</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"dropCap":true} --></p>
+<p class="has-drop-cap">Desarrollar obra artística o contenido multimedios requiere tiempo, trabajo y dinero. Nunca está de mas recibir algún apoyo financiero para poder dedicar mas tiempo a nuestro trabajo. Si cuentas con una buena base de fans que aman tu trabajo puedes recibir su apoyo económico para continuar tu obra. <br> Hoy te presentamos algunas páginas webs que proveen el servicio:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><a href="http://www.patreon.com" target="_blank" rel="noreferrer noopener" aria-label="Patreon (opens in a new tab)">Patreon</a></strong><br><br>Una plataforma bastante conocida y muy completa. Se enfoca en la membresía donde tus suscriptores pagan por ver contenido exclusivo. Tiene una comisión del 5%<br></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Las siguientes plataformas usan el concepto de invitar un café digital, que no es otra cosa que un pequeña donación monetaria, que puede ser de una vez o recurrente.</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><a href="http://www.buymeacoffee.com" target="_blank" rel="noreferrer noopener" aria-label="Buymeacoffee (opens in a new tab)">Buymeacoffee</a></strong><br><br>Puedes crear un link para compartir o para colocar en una pagina web donde tus seguidores podrán entrar para donar. Es la plataforma mas sencilla de las reseñadas..</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><a href="http://www.beabacker.com" target="_blank" rel="noreferrer noopener" aria-label="Beabacker (opens in a new tab)">Beabacker</a></strong><br><br>Sigue el concepto de invitar un café digital y junto con la donación puedes recibir un mensaje de apoyo. Cuenta con un panel de control donde puedes ver todas las donaciones recibidas, es totalmente gratis y no toman comisión. Necesitas una cuenta de Stripe para recibir las donaciones y poder publicar tu perfil. El donante puede establecer pagos recurrentes y siempre tendrá que dar una propina de $1 a beabacker. <br></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><a rel="noreferrer noopener" aria-label="ko-fi (opens in a new tab)" href="http://www.ko-fi.com" target="_blank">ko-fi</a></strong><br><br>También bajo el concepto de café digital. Parecida a una red social contiene opción de galería y contenido exclusivo para suscriptores. Ko-fi es mas parecido a una red social y es totalmente gratis y sin comisión. Este puede ser el mas conveniente para artistas visuales por su función de galería y puedes hacer publicaciones Blog para tus seguidores. Te registras como creator o supporter y conectas una cuenta de paypal para recibir las donaciones. También cuenta con una membresía Gold con prestaciones adicionales como pagos recurrentes y contenido exclusivo.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator --></p>
+<hr class="wp-block-separator"/>
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>Espero que puedas sacar provecho de alguna de estas herramientas y te ayuden a generar algunos ingresos. Cuéntanos como te fue.</p>
+<p><!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Entrevista a la fotógrafa Jerica Colón.</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/entrevista-a-la-fotografa-jerica-colon.html"/>
+        <id>https://abimaelo.github.io/epesod/entrevista-a-la-fotografa-jerica-colon.html</id>
+            <category term="Fotografía"/>
+            <category term="Entrevista"/>
+
+        <updated>2020-10-26T17:41:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/18/Jerica-e1549630579536.jpg" alt="" />
+                     Hoy conoceremos a Jerica Colón una joven que se abre camino&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/18/Jerica-e1549630579536.jpg" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p>Hoy conoceremos a Jerica Colón una joven  que se abre camino en el campo de la fotografía. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>Saludos&nbsp;Jerica</strong><em><strong>,</strong></em><strong>por favor preséntate a nuestros lectores.</strong>&nbsp;</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hola mi nombre es Jerica Colón, soy fotógrafa vivo en Puerto Rico. Desde el 2011 me apasiona mucho viajar y he trabajado fuertemente para poder ir a diferentes sitios. En el momento trabajo fotografía de retrato y en mi tiempo libre es que trabajo la fotografía conocida como “street photography”. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Pueden ver de la misma en&nbsp;<a rel="noreferrer noopener" href="http://instagram.com/travelchangesyou" target="_blank">instagram.com/travelchangesyou</a>&nbsp;es una parte de mi que no todos conocen y últimamente les he empezado a compartir de esa parte mía a través de las redes sociales. La fotografía de retrato que hago trabajo con poses, pero la mayoría de las veces hago algo que es que capturo a la persona de manera muy natural, lo que me ha caracterizado estos últimos años como un estilo candido y bohemio.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>¿Cuánto tiempo llevas en la fotografía?&nbsp;<br></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>11&nbsp;años.&nbsp;</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>¿<strong>Tienes preparación académica?</strong><br></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Sí, tengo un bachillerato en Publicidad y fotografía comercial de la Universidad del Sagrado Corazón</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>¿Cual es la temática que inspira tus fotos?<br></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Street photography, Me gusta mucho inspirarme viendo trabajos de personas que retratan en la calle. Una de mis fotógrafas favorito es Vivian Maier.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Ya que mencionas a&nbsp;Vivian Maier. Tuve la oportunidad de ver el documental sobre ella en Netflix y su fotografía era en blanco y negro.&nbsp;</em><strong><em>¿Prefieres la fotografía a color o B&amp;W?</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Me gusta la fotografía en blanco y negro mucho, en especial cuando estoy tomando fotos que capturan momentos o en mis fotos de “street photography”, pero trato de mantener un balance y sigo trabajando la fotografía a color.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":330} --></p>
+<figure class="wp-block-image"><figure class="wp-image-330"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/18/Jerica-01-1024x1024.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://abimaelo.github.io/epesod/media/posts/18/responsive/Jerica-01-1024x1024-xs.jpg 300w ,https://abimaelo.github.io/epesod/media/posts/18/responsive/Jerica-01-1024x1024-sm.jpg 480w ,https://abimaelo.github.io/epesod/media/posts/18/responsive/Jerica-01-1024x1024-md.jpg 768w ,https://abimaelo.github.io/epesod/media/posts/18/responsive/Jerica-01-1024x1024-lg.jpg 1024w"  alt="" /></figure><br />
+<figcaption>Fotografías por Jerica Colón</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>¿Qué equipo usas? <br></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Canon</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>¿Cual es tu Objetivo (lente) favorito? ¿Prefieres la luz natural o el flash?&nbsp;¿Que software usas para la edición?</strong><br></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Mi objetivo favorito es el 50 mm y la fotografía natural. Uso programas de adobe (lightroom y photoshop) </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>¿En qué estás trabajando actualmente?<br></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Retratos individuales, retrato familiar y eventos de conferencias. Me apasiona mucho trabajar de manera natural donde, ya sea en un evento o un retrato, pueda capturar momentos cándidos.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>¿Tiene algún ritual para trabajar?&nbsp;<br></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Antes de ir a un evento o un "photoshoot" me gusta poner música que sea movida y alegre.&nbsp;</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>¿Qué es lo próximo en tu carrera fotográfica?<br></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Estoy trabajando para dar mi nombre a conocer ya que la fotografía es un ambiente bien competitivo y para poder seguir trabajando en lo que me apasiona requiere mucha consistencia y perseverancia.&nbsp;</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator --></p>
+<hr class="wp-block-separator"/>
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>Gracias Jerica por esta entrevista, <strong>epesod</strong> te desea el mayor éxito posible. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Puedes conocer mas de Jerica siguiendola en sus redes sociales.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://www.facebook.com/jericacolonphotography/">https://www.facebook.com/jericacolonphotography/</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://www.instagram.com/jericacolonphotography">https://www.instagram.com/jericacolonphotography</a></p>
+<p><!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Noche de artes en Aibonito</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/noche-de-artes-en-aibonito.html"/>
+        <id>https://abimaelo.github.io/epesod/noche-de-artes-en-aibonito.html</id>
+            <category term="Cultura"/>
+
+        <updated>2020-10-26T17:41:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/17/Jerica-3.jpg" alt="" />
+                     No hay que olvidar desarrollar los espacios para compartir entre personas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/17/Jerica-3.jpg" alt="" />
+                <p><!-- wp:heading --></p>
+<h2>Un oasis para todo aquel que ama todo tipo de arte</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:table {"hasFixedLayout":true,"className":"is-style-regular"} --></p>
+<table class="wp-block-table has-fixed-layout is-style-regular">
+<tbody>
+<tr>
+<td>El pasado 26 de enero de 2019 tuve la experiencia de exponer fotos en La Favela PR un café - teatro bar. El evento fue junto a otros artistas, una artista de pintura llamada Knet Rivera, un fotógrafo llamado Juan Luis Hernández y el poeta Ángel Matos. Este lugar se sentía como un oasis para todo aquel que ama todo tipo de arte, pues hasta el poeta mientras citaba su poesía tenía un guitarrista a su lado y eso le daba un toque bohemio espectacular. El servicio al cliente en el lugar era muy atento y las personas que llegaban apoyándonos fue muy ameno. <br></td>
+</tr>
+</tbody>
+</table>
+<p><!-- /wp:table --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p>
+<p>No hay que olvidar desarrollar los espacios para compartir entre personas con mismos intereses.</p>
+</blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:image {"id":313} --></p>
+<figure class="wp-block-image"><figure class="wp-image-313"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/17/Jerica-4-1024x683.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-4-1024x683-xs.jpg 300w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-4-1024x683-sm.jpg 480w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-4-1024x683-md.jpg 768w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-4-1024x683-lg.jpg 1024w"  alt="" /></figure><br />
+<figcaption>JERICA COLON PHOTOGRAPHY</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Me parece que momentos como estos, donde los negocios locales crean espacio para diferentes artistas como nosotros los fotógrafos y todo tipo de arte, son muy característicos. En una era donde todo es redes sociales y nos movemos a un paso rápido hacia la tecnología, que es positivo, pero no hay que olvidar desarrollar los espacios para compartir entre personas con mismos intereses. Lugares así nos ayudan a exponernos como individuos y a conocernos  entre unos y otros.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:gallery {"ids":[311,310,309]} --></p>
+<ul class="wp-block-gallery columns-3 is-cropped">
+<li class="blocks-gallery-item">
+<figure><figure class="wp-image-311"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/17/Jerica-2-1024x683.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-2-1024x683-xs.jpg 300w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-2-1024x683-sm.jpg 480w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-2-1024x683-md.jpg 768w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-2-1024x683-lg.jpg 1024w"  alt="" data-id="311" data-link="http://epesod.com/blog/?attachment_id=311" /></figure><br />
+<figcaption>Noche de artes en Aibonito </figcaption>
+</figure>
+</li>
+<li class="blocks-gallery-item">
+<figure><figure class="wp-image-310"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/17/Jerica-1-1024x623.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-1-1024x623-xs.jpg 300w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-1-1024x623-sm.jpg 480w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-1-1024x623-md.jpg 768w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/Jerica-1-1024x623-lg.jpg 1024w"  alt="" data-id="310" data-link="http://epesod.com/blog/?attachment_id=310" /></figure><br />
+<figcaption>Noche de artes en Aibonito</figcaption>
+</figure>
+</li>
+<li class="blocks-gallery-item">
+<figure><figure class="wp-image-309"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/17/IMG_8928-1024x768.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://abimaelo.github.io/epesod/media/posts/17/responsive/IMG_8928-1024x768-xs.jpg 300w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/IMG_8928-1024x768-sm.jpg 480w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/IMG_8928-1024x768-md.jpg 768w ,https://abimaelo.github.io/epesod/media/posts/17/responsive/IMG_8928-1024x768-lg.jpg 1024w"  alt="" data-id="309" data-link="http://epesod.com/blog/?attachment_id=309" /></figure><br />
+<figcaption>JERICA COLON PHOTOGRAPHY</figcaption>
+</figure>
+</li>
+</ul>
+<p><!-- /wp:gallery --></p>
+<p><!-- wp:paragraph --></p>
+<p>Por Jerica Colón</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Para mas información&nbsp;:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a rel="noreferrer noopener" class="" href="https://www.facebook.com/jericacolonphotography/" target="_blank">https://www.facebook.com/jericacolonphotography/</a>&nbsp;</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a rel="noreferrer noopener" class="" href="https://www.instagram.com/jericacolonphotography/" target="_blank">https://www.instagram.com/jericacolonphotography/</a><br></p>
+<p><!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Accesorios Pattern Language</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/accesorios-pattern-language.html"/>
+        <id>https://abimaelo.github.io/epesod/accesorios-pattern-language.html</id>
+            <category term="Diseño"/>
+            <category term="Creación"/>
+
+        <updated>2020-10-26T17:41:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/16/26229869_312785442566524_5018102935730372887_n-e1536465489707.jpg" alt="" />
+                    Pattern Language: patrones geométricos como lenguajes culturales. Pattern Language es una marca independiente&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/16/26229869_312785442566524_5018102935730372887_n-e1536465489707.jpg" alt="" />
+                <h3>Pattern Language: patrones geométricos como lenguajes culturales.</h3>
+<div> Pattern Language es una marca independiente ubicada en San Juan, Puerto Rico. Nuestra misión es diseñar accesorios (pantallas) usando patrones geométricos de diferentes regiones del mundo como: Africa, Oriente medio y Asia.</div>
+<div>Nuestra pasión por los patrones empezó en la Escuela de Arquitectura de la Universidad Politécnica de Puerto Rico mientras estudiábamos para un curso de historia. En dicho momento conocimos la arquitectura del mundo islámico y los patrones utilizados para ornamentar la misma. Desde ese instante comenzamos a dibujar los patrones a mano.</div>
+<div>
+<p>Los diseños son hechos por mi (Israel Rios) y por Edgardo Vela. Nosotros dibujamos los diseños preliminares a mano y luego dibujamos los patrones finales utilizando tecnologías digitales. Eventualmente cortamos esos patrones en madera y acrílico. Ambos materiales son cortado con un "laser cutter". Luego de la fase de corte dedicamos nuestro tiempo a decidir las terminaciones de los diseños.</p>
+<div>
+<div dir="ltr">
+<div></div>
+<div>Los productos desde el 10 de marzo de 2017 estarán disponibles en Santurce Pop, también pueden adquirirlos de manera directa llamando al 787-666-9165.</div>
+<div></div>
+<div>Pueden seguir la marca via Instagram y Facebook.</div>
+<div></div>
+<div>Instagram: <a href="https://www.instagram.com/patternlanguagepr/" target="_blank" rel="noopener">patternlanguagepr</a></div>
+<div>Facebook: <a href="https://www.facebook.com/patternlanguagepr/" target="_blank" rel="noopener">patternlanguagepr</a></div>
+<div></div>
+<div>Si desea conocer mas información puede llamar al 787-666-9165 o también podemos hablar en persona en Hato Rey.</div>
+</div>
+</div>
+<div>Autor: Israel Rios</div>
+</div>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Conoce a MIND BLOWING PROJECT</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/conoce-a-mind-blowing-project.html"/>
+        <id>https://abimaelo.github.io/epesod/conoce-a-mind-blowing-project.html</id>
+            <category term="Diseño"/>
+            <category term="Creación"/>
+
+        <updated>2020-10-26T17:41:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/15/24852154_1529340113801631_4571635321423807720_n-e1536465586948.jpg" alt="" />
+                    Piezas que hacen tu mente explotarSoy Keila Ramos, natural de Trujillo Alto&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/15/24852154_1529340113801631_4571635321423807720_n-e1536465586948.jpg" alt="" />
+                <h3></h3>
+<h3><b>Piezas que hacen tu mente explotar</b></h3>
+<div></div>
+<div>Soy Keila Ramos, natural de Trujillo Alto y creadora de Mind Blowing Project. Comencé con este proyecto a principios de 2013 como uno experimental para escapar de lo cotidiano. Logrando como creadora, encontrar en mis manos y mente esta pasión que tanto aporta a mi alma.</div>
+<div>Mind Blowing Project es un proyecto de vida que está en constante explosión, por eso su nombre. Para mi como creadora porque mi mente siempre está maquinando que hacer después. Mi mente no quiere repetir una pieza, ella quiere descubrir otra. Escavar en el tiempo los detalles de buenas cosas vividas. Al espectador le pasa algo similar, cuando una pieza le llama la atención, es porque sintió una explosión buena en su mente.</div>
+<div>
+<p>Comiencé con MBP como una alternativa de hacer algo diferente. Siento una gran pasión por el arte, que he aprendido a sentirlo a través del amor. Siempre, desde pequeña,  me ha encantado tener un montón de cositas y materiales para crear. Me gustaba todo lo que no fuera lo normal, me llaman la atención las cosas pequeñas, diferentes y a la misma vez; lo sencillo. Y todo esto junto, creó mi marca.Las piezas que hago están inspiradas en los pequeños detalles de mi vida y la de mi entorno, que es el mismo que el tuyo. Son "funky" , hip y con una mezcla de esa vibra "vintage" , pero moderna a la vez que resulta difícil de etiquetar.</p>
+</div>
+<div></div>
+<div>
+<p>Cada pieza tiene un enfoque especial en el detalle de una historia y en general, son piezas pequeñas. Sobresalen los rostros de personajes históricos que marcaron vidas, así como el arte callejero descubierto como si de un gran tesoro se encontrara.</p>
+</div>
+<h3>Mind Blowing Project único y de calidad</h3>
+<div></div>
+<div>MBP comenzó en la costura, luego incorporó la fotografía y con ella se han desarrollado diferentes medios como accesorios que puedes llevar contigo a cualquier parte.</div>
+<div>
+<p>Se ha logrado fusionar con el arte gráfico en colaboraciones, logrando textiles de autor y convirtiéndolo en diferentes estilos de bolsos. Así también, se han estado combinando medios como resina, lana y todo aquello que resulte un buen medio para lograr una pieza única y de calidad.</p>
+<p>En el futuro veo mi marca moviéndome libremente, junto a otras locales cruzando fronteras. Consiguiendo la exposición y la seguridad de que siguen impactando mis piezas.</p>
+<p>Por el momento, MBP estará en la búsqueda diaria de crear esa pieza única que hará mi mente explotar. Cuando se crea una, rápido voy por la otra diferente. Y en el proceso del proyecto, me enfocaré en conseguir presencia en las diferentes plataformas locales, como; tiendas y ferias de diseño locales e internacionales, exposiciones y eventos creativos.</p>
+<div></div>
+<div>Mis piezas puedes conseguirlas en a través de las plataformas sociales, ETSY y en las tiendas locales como: Tereques La Tiendita en Santurce, ConCalma en el Viejo San Juan y Local Story en Dorado.</div>
+<div>Visita Mind Blowing Project en <a href="https://www.facebook.com/Mind-Blowing-Project-526231457445840/" target="_blank" rel="noopener">facebook</a></div>
+</div>
+<div></div>
+<div>Autor: Keila Ramos</div>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
