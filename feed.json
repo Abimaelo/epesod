@@ -26,6 +26,20 @@
             "date_modified": "2021-07-13T20:21:02-04:00"
         },
         {
+            "id": "https://abimaelo.github.io/epesod/about/",
+            "url": "https://abimaelo.github.io/epesod/about/",
+            "title": "About",
+            "summary": " Fundado en Puerto Rico 2016, epəsōd es una estudio de diseño,&hellip;",
+            "content_html": "<p><!-- wp:paragraph --></p>\n<p>Fundado en Puerto Rico 2016, <strong>epəsōd</strong> es una estudio de diseño, marca personal y de emprendimiento a través del arte. </p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>La idea, que se ha ido puliendo con el tiempo, es desarrollar una marca bajo la cual se pueda vender variedad de artículos producidos en el espacio de creación artística. Productos nacidos del proceso creativo, la curiosidad y la experimentación.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>También se conceptualizó como una plataforma que promueva el emprendimiento creativo en Puerto Rico y así nació el blog. Es este blog compartimos experiencias personales y promovemos el trabajo de colegas artistas.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Aspiramos a tener con una tienda online donde se vender artículos producidos en el taller que pueden ir desde accesorios y prendas de vestir a pequeñas obras de arte.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Por el momento se promueven a través de las redes sociales. Pendiente a las ediciones limitadas.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><strong>¿De donde surge el nombre? </strong></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>ep•i•sode <br>(ep ə sōd), <br>n. an incident in the course of a series of events, in a person's life or experience, etc.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Nace de la palabra inglesa episode y para su representación en el logo se utilizó la escritura fonética (ep ə sōd) pronunciada en español (ep e sod).</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>El nombre representa el producto resultado del proceso de creación constante, como un nuevo evento en la obra del artista.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>- Abimael Ortiz, Fundador</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Gracias por visitar y no te pierdas lo que está por venir.</p>\n<p><!-- /wp:paragraph --></p>",
+            "author": {
+                "name": "Abimael Ortiz"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-30T21:47:39-04:00",
+            "date_modified": "2021-07-13T22:28:19-04:00"
+        },
+        {
             "id": "https://abimaelo.github.io/epesod/objetos-impresos-en-3d-hechos-por-epesod/",
             "url": "https://abimaelo.github.io/epesod/objetos-impresos-en-3d-hechos-por-epesod/",
             "title": "Objetos impresos en 3d hechos por epesod",
@@ -159,23 +173,6 @@
                    "Cultura"
             ],
             "date_published": "2019-02-05T22:07:04-04:00",
-            "date_modified": "2020-10-26T17:41:13-04:00"
-        },
-        {
-            "id": "https://abimaelo.github.io/epesod/accesorios-pattern-language/",
-            "url": "https://abimaelo.github.io/epesod/accesorios-pattern-language/",
-            "title": "Accesorios Pattern Language",
-            "summary": "Pattern Language: patrones geométricos como lenguajes culturales. Pattern Language es una marca&hellip;",
-            "content_html": "<h3>Pattern Language: patrones geométricos como lenguajes culturales.</h3>\n<div> Pattern Language es una marca independiente ubicada en San Juan, Puerto Rico. Nuestra misión es diseñar accesorios (pantallas) usando patrones geométricos de diferentes regiones del mundo como: Africa, Oriente medio y Asia.</div>\n<div>Nuestra pasión por los patrones empezó en la Escuela de Arquitectura de la Universidad Politécnica de Puerto Rico mientras estudiábamos para un curso de historia. En dicho momento conocimos la arquitectura del mundo islámico y los patrones utilizados para ornamentar la misma. Desde ese instante comenzamos a dibujar los patrones a mano.</div>\n<div>\n<p>Los diseños son hechos por mi (Israel Rios) y por Edgardo Vela. Nosotros dibujamos los diseños preliminares a mano y luego dibujamos los patrones finales utilizando tecnologías digitales. Eventualmente cortamos esos patrones en madera y acrílico. Ambos materiales son cortado con un \"laser cutter\". Luego de la fase de corte dedicamos nuestro tiempo a decidir las terminaciones de los diseños.</p>\n<div>\n<div dir=\"ltr\">\n<div></div>\n<div>Los productos desde el 10 de marzo de 2017 estarán disponibles en Santurce Pop, también pueden adquirirlos de manera directa llamando al 787-666-9165.</div>\n<div></div>\n<div>Pueden seguir la marca via Instagram y Facebook.</div>\n<div></div>\n<div>Instagram: <a href=\"https://www.instagram.com/patternlanguagepr/\" target=\"_blank\" rel=\"noopener\">patternlanguagepr</a></div>\n<div>Facebook: <a href=\"https://www.facebook.com/patternlanguagepr/\" target=\"_blank\" rel=\"noopener\">patternlanguagepr</a></div>\n<div></div>\n<div>Si desea conocer mas información puede llamar al 787-666-9165 o también podemos hablar en persona en Hato Rey.</div>\n</div>\n</div>\n<div>Autor: Israel Rios</div>\n</div>\n",
-            "image": "https://abimaelo.github.io/epesod/media/posts/16/26229869_312785442566524_5018102935730372887_n-e1536465489707.jpg",
-            "author": {
-                "name": "Abimael Ortiz"
-            },
-            "tags": [
-                   "Diseño",
-                   "Creación"
-            ],
-            "date_published": "2017-03-10T18:43:37-04:00",
             "date_modified": "2020-10-26T17:41:13-04:00"
         }
     ]
