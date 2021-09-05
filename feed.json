@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://abimaelo.github.io/epesod/reto-fotografico-epesod1x15/",
+            "url": "https://abimaelo.github.io/epesod/reto-fotografico-epesod1x15/",
+            "title": "Reto fotografico #epesod1x15",
+            "summary": "En un post previo les contaba que quiero retomar la fotografía, y&hellip;",
+            "content_html": "<p>En un post previo les contaba que quiero retomar la fotografía, y ya que adquirí una nueva cámara, tema del que pienso compartir luego, tenia que ponerla en uso. Así me surge la idea da hacer un reto con dos colegas fotógrafas, las chicas de <strong><a href=\"enfokke.com\" target=\"_blank\" rel=\"noopener noreferrer\">enfokke.com</a></strong>, Kala y Katherine.</p>\n<h2>#epesod1x15</h2>\n<p>El reto consistió en que por 15 días tomaríamos una foto por día con un tema distinto. Para eso teníamos una lista numerada de la cual se elegía un número al azar y se colocaría en Instagram con el hashtag <em>#epesod1x15</em>.</p>\n<p>El reto fue muy divertido y ya hasta extraño tener un tema diario para retratar. Aquí les comparto la muestra de mi participación. Por limitaciones técnicas solo puedo compartir las imágenes de mi cuenta de Instagram pero para ver las participaciones de las compañeras busquen el hashtag <em>#epesod1x15 </em>en Instagram.</p>\n<p> </p>\n<div class=\"taggbox-container\" style=\"width: 100%; height: 100%; overflow: auto;\">\n<div class=\"taggbox-socialwall\" data-wall-id=\"70095\"> </div>\n<script src=\"https://widget.taggbox.com/embed.min.js\" type=\"text/javascript\"></script>\n</div>\n<p> </p>",
+            "image": "https://abimaelo.github.io/epesod/media/posts/31/Reto-fotografico.jpg",
+            "author": {
+                "name": "Abimael Ortiz"
+            },
+            "tags": [
+                   "Fotografía"
+            ],
+            "date_published": "2021-09-05T19:47:52-04:00",
+            "date_modified": "2021-09-05T19:47:52-04:00"
+        },
+        {
             "id": "https://abimaelo.github.io/epesod/tour-a-toledo-y-segovia/",
             "url": "https://abimaelo.github.io/epesod/tour-a-toledo-y-segovia/",
             "title": "Tour a Toledo y Segovia",
@@ -159,22 +175,6 @@
                    "Creación"
             ],
             "date_published": "2020-10-18T20:23:26-04:00",
-            "date_modified": "2020-10-26T17:41:13-04:00"
-        },
-        {
-            "id": "https://abimaelo.github.io/epesod/convocatoria-para-publicar-en-epesod/",
-            "url": "https://abimaelo.github.io/epesod/convocatoria-para-publicar-en-epesod/",
-            "title": "Convocatoria para publicar en epesod",
-            "summary": " ¿Tienes un emprendimiento en las artes y lo quieres dar a&hellip;",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p>¿Tienes un emprendimiento en las artes y lo quieres dar a conocer? Aquí tenemos una oportunidad para ti.<br></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:heading {\"level\":4} --></p>\n<h4><strong>Se convoca a todos los creativos a promocionar su trabajo a través de una publicación en nuestra revista.&nbsp;</strong><br></h4>\n<p><!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Son bienvenidos a publicar artistas visuales, fotógrafos, músicos y otros medios que estén emprendiendo un proyecto personal u comercial.<br></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>En el artículo el artista nos dará una breve autobiografía, nos hablará de su proceso creativo y nos explicará de que trata su proyecto.<br></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Las reglas son las siguientes:<br></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:list --></p>\n<ul>\n<li>El artista creador deberá reseñar su trabajo en un escrito de al menos 300 palabras. Debe cuidar la ortografía.</li>\n<li> Todo artículo deberá estar acompañado de una imagen destacada para el encabezado. La imagen debe ser en formato horizontal tamaño 1024 x 768 pixeles. </li>\n<li> En caso de Arte Visual acompañará el artículo con un mínimo de 2 y un&nbsp;máximo de 5 imágenes.&nbsp; </li>\n<li> En caso de ser vídeo o audio deberá estar acompañado de un enlace (YouTube, Soundcloud, etc.) donde se pueda apreciar su trabajo.</li>\n<li> Deberá incluir enlace a su página web y redes sociales junto con un email de contacto. <br> </li>\n</ul>\n<p><!-- /wp:list --></p>\n<p><!-- wp:paragraph --></p>\n<p>Esta información deberá enviarla al correo electrónico <a href=\"mailto:marketing@epesod.com\" target=\"_blank\" rel=\"noreferrer noopener\">marketing@epesod.com</a><br></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Todas las solicitudes serán consideradas y de cumplir los criterios serán publicadas.<br><br></p>\n<p><!-- /wp:paragraph --></p>\n",
-            "image": "https://abimaelo.github.io/epesod/media/posts/21/publica.blog-post-feature.jpg",
-            "author": {
-                "name": "Abimael Ortiz"
-            },
-            "tags": [
-                   "Recursos"
-            ],
-            "date_published": "2019-10-08T09:45:26-04:00",
             "date_modified": "2020-10-26T17:41:13-04:00"
         }
     ]
