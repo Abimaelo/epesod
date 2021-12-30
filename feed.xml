@@ -3,12 +3,48 @@
     <title> epəsōd</title>
     <link href="https://abimaelo.github.io/epesod/feed.xml" rel="self" />
     <link href="https://abimaelo.github.io/epesod" />
-    <updated>2021-09-05T19:47:52-04:00</updated>
+    <updated>2021-12-30T18:40:54-04:00</updated>
     <author>
         <name>Abimael Ortiz</name>
     </author>
     <id>https://abimaelo.github.io/epesod</id>
 
+    <entry>
+        <title>Escape a New York</title>
+        <author>
+            <name>Abimael Ortiz</name>
+        </author>
+        <link href="https://abimaelo.github.io/epesod/escape-a-new-york/"/>
+        <id>https://abimaelo.github.io/epesod/escape-a-new-york/</id>
+            <category term="Fotografía"/>
+            <category term="Estilo de vida"/>
+            <category term="Cultura"/>
+
+        <updated>2021-12-30T18:40:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://abimaelo.github.io/epesod/media/posts/32/ABI_1978-2.jpg" alt="" />
+                    El Pasado mes de octubre me escapé un fin de semana a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://abimaelo.github.io/epesod/media/posts/32/ABI_1978-2.jpg" alt="" />
+                <p>El Pasado mes de octubre me escapé un fin de semana a celebrar el cumpleaños de mi esposa en Nueva York. Para ambos fue la primera ocasión en la que visitamos la gran manzana. Pasamos un fin de semana muy divertido y agotador porque caminamos mucho. </p>
+<p>Llegamos viernes tarde en la noche a JFK y nos trasladamos en Uber hasta nuestro hospedaje en la 53 entre la sexta y la séptima, si no me equivoco. De ahí nos fuimos a caminar y llegamos a Time Square. Ahí fue que comenzamos a conocer lo que era estar en Nueva York. Esta ciudad es enorme, es increíble como pueden haber tantos rascacielos en un solo lugar. El sábado y domingo visitamos Central Park, The Summit, MoMa, Puente de Brooklyn, Ferry al rededor de la estatua de la libertad y comimos en Joe's Pizza. Fueron dos días intensos con mucho dolor en los pies.</p>
+<p>Aprovechamos el viaje para hacer fotografía y a pesar de tener poco tiempo, pudimos obtener algunas imágenes interesantes para compartir. Les comparto algunas de mis fotos.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_2146.jpg" data-size="3712x4640"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_2146-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_2197.jpg" data-size="3712x4640"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_2197-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_1878-Full.jpg" data-size="3542x4427"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_1878-Full-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_1875.jpg" data-size="3537x4421"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_1875-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_2674.jpg" data-size="3712x4640"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_2674-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_1886.jpg" data-size="2997x3746"><img loading="lazy" src="https://abimaelo.github.io/epesod/media/posts/32/gallery/ABI_1886-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+</div></div>
+<p>Fue un fin de semana para recordar y mi esposa disfrutó un cumpleaños diferente y divertido que no olvidará en mucho tiempo. Esperamos volver en un futuro no muy lejano. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Reto fotografico #epesod1x15</title>
         <author>
@@ -18,7 +54,7 @@
         <id>https://abimaelo.github.io/epesod/reto-fotografico-epesod1x15/</id>
             <category term="Fotografía"/>
 
-        <updated>2021-09-05T19:47:52-04:00</updated>
+        <updated>2021-09-06T00:02:38-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://abimaelo.github.io/epesod/media/posts/31/Reto-fotografico.jpg" alt="Reto Fotográfico" />
@@ -506,74 +542,6 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><a href="https://i.materialise.com/blog/en/3d-printed-trees-art-installation/">https://i.materialise.com/blog/en/3d-printed-trees-art-installation/</a></p>
-<p><!-- /wp:paragraph --></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>La impresión 3d como medio de expresión creativa - Parte 1</title>
-        <author>
-            <name>Abimael Ortiz</name>
-        </author>
-        <link href="https://abimaelo.github.io/epesod/la-impresion-3d-como-medio-de-expresion-creativa-parte-1/"/>
-        <id>https://abimaelo.github.io/epesod/la-impresion-3d-como-medio-de-expresion-creativa-parte-1/</id>
-            <category term="Tecnología"/>
-            <category term="Recursos"/>
-            <category term="Diseño"/>
-            <category term="Creación"/>
-
-        <updated>2020-10-26T17:41:13-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://abimaelo.github.io/epesod/media/posts/23/printer-2416269_1280.jpg" alt="" />
-                     En este artículo quiero explorar&nbsp;el tema de la impresión 3d como&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://abimaelo.github.io/epesod/media/posts/23/printer-2416269_1280.jpg" alt="" />
-                <p><!-- wp:paragraph --></p>
-<p>En este artículo quiero explorar&nbsp;el tema de la impresión 3d como medio de expresión creativa y sus aplicaciones en el mundo del arte.&nbsp;</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Me di a la tarea de buscar un poco en internet para saber que se ha hecho hasta el momento en el mundo del arte con esta herramienta relativamente nueva. En esta primera parte vamos a averiguar que es la impresión 3d y cual es su accesibilidad al mercado de equipos de escritorio.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2>La impresora 3d</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>La conceptualización de la impresión 3d comenzó a finales de los 70 y a principios de los 80 se desarrolló el primer sistema de impresión 3d, pero no es hasta los 2000 que se hace accesible al público general.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Hay varios métodos de impresión 3d pero vamos a enfocarnos en el FDM ya que es el adquirido para el taller de epesod.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>El Modelado por Deposición Fundida (MDF o FDM en sus siglas inglesas)&nbsp;se ha convertido en la técnica aditiva más utilizada. FDM es la técnica mediante la cual un filamento abastece material hacia un extrusor. El material es fundido y depositado capa a capa en la cama de impresión. Esta técnica tiene grandes ventajas, como el uso de materiales de bajo costo, inodoros, seguros y no tóxicos, la gran variedad, y la facilidad de manejo y mantenimiento.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Determinadas impresoras usan filamento de termo-plástico como el PLA o ABS, estas funden el plástico construyendo con él capas muy finas sobrepuestas para crear el objeto. Estos materiales admiten el pulido posterior de la pieza. Las impresoras tipo FDM cuentan con un enorme potencial y son las que mayor presencia tienen en el mercado de Impresora 3d de escritorio. Estos equipos se pueden adquirir desde los $300 en Ebay o Amazon siendo la marca <a href="https://www.creality.com/" data-type="URL" data-id="https://www.creality.com/" target="_blank" rel="noreferrer noopener">Creality</a> una de las mas populares de bajo costo.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3>Programa de modelado y "slicing".</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Para desarrollar el diseño de un modelo 3d y su eventual impresión necesitamos programas específicos para esta función. Hay gran variedad de ellos, unos de pago y otros gratis. Voy a mencionar los más populares y de acceso gratuito.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Para la creación del diseño 3d podemos usar un programa online que se llama <a rel="noreferrer noopener" href="https://www.tinkercad.com/" data-type="URL" data-id="https://www.tinkercad.com/" target="_blank">Tinkercad</a> donde podemos crear objetos básicos de manera sencilla. Para crear objetos mas elaborados podemos usar un programa como <a rel="noreferrer noopener" href="https://www.blender.org/" data-type="URL" data-id="https://www.blender.org/" target="_blank">Blender</a> que es muy potente, pero con una curva amplia de aprendizaje. Sin embargo, hay gran variedad de tutoriales en youtube que ayudan a aprender a usarlo. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Si deaseas obtener modelos gratuitos para imprimir puedes visitar <a rel="noreferrer noopener" href="https://www.thingiverse.com/" data-type="URL" data-id="https://www.thingiverse.com/" target="_blank">Thingiverse</a>.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Luego de creado el modelo tenemos que usar un programa de "slicing" en donde determinamos los parámetros que le indicará a la impresora como realizará la impresión. Para esto podemos utilizar el programa gratuito <a rel="noreferrer noopener" href="https://ultimaker.com/software/ultimaker-cura" data-type="URL" data-id="https://ultimaker.com/software/ultimaker-cura" target="_blank">Ultimaker Cura</a> o <a rel="noreferrer noopener" href="https://www.prusa3d.com/prusaslicer/" data-type="URL" data-id="https://www.prusa3d.com/prusaslicer/" target="_blank">Prusa Slicer</a>.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Hay mucha información disponible sobre este tema en internet, pero quise reseñarlo para el que no está al tanto pueda tener un mejor marco de referencia.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>La impresión 3d se usa en muchas industrias, como la medicina, ciencia y la manufactura. Para la arquitectura ha demostrado ser una utilidad práctica y costo efectiva. &nbsp;¿Qué tal ha sido su implementación en el arte o las industrias creativas? Eso lo veremos en la segunda parte.</p>
 <p><!-- /wp:paragraph --></p>
 
             ]]>
