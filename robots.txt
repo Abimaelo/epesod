@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://abimaelo.github.io/epesod/sitemap.xml
+Sitemap: https://abimaelortiz.com/sitemap.xml
