@@ -3,7 +3,7 @@
     <title> epəsōd</title>
     <link href="https://epesod.com/feed.xml" rel="self" />
     <link href="https://epesod.com" />
-    <updated>2022-01-28T19:54:31-04:00</updated>
+    <updated>2022-01-28T20:00:22-04:00</updated>
     <author>
         <name>Abimael Ortiz</name>
     </author>
@@ -18,9 +18,29 @@
         <id>https://epesod.com/3-favoritos-de-enero/</id>
             <category term="Recursos"/>
 
-        <updated>2022-01-28T19:54:31-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-01-28T20:00:22-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Tres cosas favoritas que uso y recomiendo listado de cosas favoritas para&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tres cosas favoritas que uso y recomiendo</p>
+<p>listado de cosas favoritas para este mes:</p>
+<ol>
+<li>Google Pixel 5a with Pixel Buds</li>
+</ol>
+<p>Celular de gama media a precio accesible, buena camara y desempeño con Android siempre actualizado. Pixel Bud con buen sonido, excepcioinal duracion de batería y buen precio. Se pueden adquirir juntos en la tienda on;line de google.</p>
+<ol>
+<li><a href="https://www.producthunt.com/">https://www.producthunt.com/</a></li>
+</ol>
+<p>Pagina web que publica diariemente produstos nuevos y aplicaciones. Lo visito todos los dias y ahi he encontrado muchos recursos utiles que uso o he usado.</p>
+<ol>
+<li> </li>
+</ol>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Escape a New York</title>
